@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Breadwall the creaters of Luna Adventure!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Contact breadwall649@gmail.com for questions or concerns.
         </p>
       </main>
 
