@@ -11,8 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Breadwall the creaters of Luna Adventure!" />
+        <Header title="Welcome to my app!" />
         <p className="description">
+          Welcome to Breadwall the creaters of Luna Adventure!
           Contact breadwall649@gmail.com for questions or concerns.
         </p>
       </main>
